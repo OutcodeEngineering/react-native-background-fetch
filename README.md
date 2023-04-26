@@ -45,7 +45,7 @@ $ yarn add react-native-background-fetch
 $ npm install --save react-native-background-fetch
 ```
 
-## iOS Setup
+## iOS - Setup
 
 ### `react-native >= 0.60`
 
