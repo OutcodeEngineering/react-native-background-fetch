@@ -149,7 +149,7 @@ BackgroundFetch.scheduleTask({
 });
 ```
 
-## Config
+## Config 
 
 ### Common Options
 
