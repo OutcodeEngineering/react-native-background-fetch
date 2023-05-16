@@ -57,7 +57,7 @@ $ npm install --save react-native-background-fetch
 - [Cocoapods Setup](docs/INSTALL-COCOAPODS-IOS.md)
 - [Manual Setup](docs/INSTALL-MANUAL-IOS.md)
 
-## Android - Setup
+## Android Setup
 
 ### `react-native >= 0.60`
 
