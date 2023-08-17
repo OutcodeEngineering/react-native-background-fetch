@@ -13,7 +13,6 @@ There is **no way** to increase the rate at which a fetch event occurs and this 
 :new: Background Fetch now provides a [**`scheduleTask`**](#executing-custom-tasks) method for scheduling arbitrary "one-shot" or periodic tasks.
 
 ### iOS
-- this is test 
 - There is **no way** to increase the rate which a fetch event occurs and this plugin sets the rate to the most frequent possible &mdash; you will **never** receive an event faster than **15 minutes**. The operating system will automatically throttle the rate the background-fetch events occur based upon usage patterns. Eg: if user hasn't turned on their phone for a long period of time, fetch events will occur less frequently.
 - [**`scheduleTask`**](#executing-custom-tasks) seems only to fire when the device is plugged into power.
 
