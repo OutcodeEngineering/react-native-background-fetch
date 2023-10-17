@@ -6,6 +6,7 @@ react-native-background-fetch &middot; [![npm](https://img.shields.io/npm/dm/rea
 By [**Transistor Software**](http://transistorsoft.com), creators of [**React Native Background Geolocation**](http://www.transistorsoft.com/shop/products/react-native-background-geolocation)
 
 ------------------------------------------------------------------------------
+test
 
 Background Fetch is a *very* simple plugin which will awaken an app in the background about **every 15 minutes**, providing a short period of background running-time.  This plugin will execute your provided `callbackFn` whenever a background-fetch event occurs.
 
